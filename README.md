@@ -1,0 +1,1 @@
+Automata que busca y reconoce las Keywords del Lenguaje C-ANSI_C, podría ser un analizador lexico si de hacen modificaciones, realmente busca las palabras y las reconoce(si se tiene double; reconoce do y double)
