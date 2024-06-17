@@ -1,0 +1,38 @@
+package analizador_lexico;
+
+public enum Tokens {
+    AUTO,
+    BREAK,
+    CASE,
+    CHAR,
+    CONST,
+    CONTINUE,
+    DEFAULT,
+    DOUBLE,
+    DO,
+    ELSE,
+    ENUM,
+    EXTERN,
+    FLOAT,
+    FOR,
+    GOTO,
+    LONG,
+    REGISTER,
+    RETURN,
+    SHORT,
+    SIGNED,
+    SIZEOF,
+    STATIC,
+    STRUCT,
+    SWITCH,
+    TYPEDEF,
+    UNION,
+    UNSIGNED,
+    VOID,
+    VOLATILE,
+    WHILE,
+    IF,
+    INT,
+    _PACKED
+
+}

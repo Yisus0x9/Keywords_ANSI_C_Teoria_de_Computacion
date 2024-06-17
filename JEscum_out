@@ -1,0 +1,15 @@
+EL FORMATO ES EL SIGUIENTE palabra (renglon,columna) 
+LAS PALABRAS ENCONTRADAS SON:
+1. void (8,0)        2. return(12,4)        3. void (15,0)        4. if (18,4)
+5. return(24,4)        6. if (30,4)        7. return(38,0)        8. if (44,4)        9. return(50,4)
+10. int (54,0)        11. int (56,4)        12. return(58,4)        13. if (64,4)        14. else (66,4)
+15. return(69,0)        16. void (73,0)        17. return(76,4)        18. return(82,4)        
+
+
+*******************************PALABRAS ENCONTRADAS Y COINCIDENCIAS*************************
+
+PALABRA : void, encontradas : 3        
+PALABRA : else, encontradas : 1        
+PALABRA : if, encontradas : 4        
+PALABRA : return, encontradas : 8        
+PALABRA : int, encontradas : 2
